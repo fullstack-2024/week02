@@ -7,7 +7,6 @@
 - 1 Credit ~ 27h
 - [Homework for week 3](./Homework.md)
 
-
 ### Tuesday Morning
 
 - Separation of concerns: HTML/CSS/JS
@@ -21,7 +20,7 @@
   - Footer, Header
   - Main, Section, Article
 - [CSS](https://internetingishard.netlify.app/html-and-css/hello-css/)
-  -` url("image")`
+  - `url("image")`
   - `margin-left,auto`
 - Activities:
   - [Activity 1](./activity1.md)
