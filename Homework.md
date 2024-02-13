@@ -1,13 +1,13 @@
 # Homework for week 3
 
 
-### Tuesday Morning
+### Tuesday Morning - 2024-02-27
 
 
 
-### Thursday Morning
+### Thursday Morning - 2024-02-29
 
 
 
 
-### Thursday Afternoon
+### Thursday Afternoon - 2024-02-29

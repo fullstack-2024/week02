@@ -30,7 +30,7 @@ Add a `head` element within the `html` element, so you can add a `title` element
 ```
 ```html
     <head>
-        <title>Cafe Shop</title>
+        <title>Fazer Café</title>
     </head>
 ```
 ```html
@@ -74,7 +74,7 @@ To let visitors know the cafe was founded in 2020, add a `p` element below the `
 ```html
     <body>
         <h1>Fazer Café</h1>
-        <p>Kluuvikatu 3, 00100 Helsinki</p>
+        <p>Est. 2020</p>
     </body>
 ```
 > **Step 7** <br>
@@ -129,7 +129,7 @@ Up until now, you have been limited regarding the presentation and appearance of
 ```html
     <head>
         <meta charset="UTF-8">
-        <title>Cafe Menu</title>
+        <title>Fazer Café</title>
 
         <style>
 
@@ -208,7 +208,7 @@ Now that you have the CSS in the `styles.css` file, go ahead and remove the `sty
 
   <head>
     <meta charset="utf-8" />
-    <title>Cafe Menu</title>
+    <title>Fazer Café</title>
 
   </head>
 ```
@@ -818,7 +818,7 @@ Now apply the `established` class to the `Est. 2020` text.
 ```html
 
       <header>
-        <h1>CAMPER CAFE</h1>
+        <h1>Fazer Café</h1>
         <p class="established">Est. 2020</p>
       </header>
 ```
@@ -907,7 +907,7 @@ First, add an `hr` element between the first `header` element and the `main` ele
 ```html
 
       <header>
-        <h1>CAMPER CAFE</h1>
+        <h1>Fazer Café</h1>
         <p class="established">Est. 2020</p>
       </header>
 
@@ -1258,7 +1258,7 @@ Add one last image under the `Desserts` heading using the url `pie.jpg`. Give th
 ```
 > **Step 92** <br>
 It would be nice if the vertical space between the `h2` elements and their associated icons was smaller. The `h2` elements have default top and bottom margin space, so you could change the bottom margin of the `h2` elements to say `0` or another number.<br>
-There is an easier way, simply add a negative top margin to the `img` elements to pull them up from their current positions. Negative values are created using a `-` in front of the value. To complete this project, go ahead and use a negative top margin of `25px` in the `img` type selector.
+There is an easier way, simply add a negative top margin to the `img` elements to pull them up from their current positions. Negative values are created using a `-` in front of the value. To complete this activity, go ahead and use a negative top margin of `25px` in the `img` type selector.
 
 ```css
 

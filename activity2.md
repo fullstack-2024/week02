@@ -13,7 +13,7 @@
 - Create an `index.html` file
 
 > **Step 1** <br>
-Welcome to the Registration Form project! Start by adding the `!DOCTYPE html` declaration at the top of the document so the browser knows what type of document it's reading.
+Start by adding the `!DOCTYPE html` declaration at the top of the document so the browser knows what type of document it's reading.
 
 ```html
 
@@ -530,7 +530,7 @@ Add an initial size of `3` rows and `30` columns.
       </fieldset>
 ```
 > **Step 36** <br>
-To give Campers an idea of what to put in their bio, the `placeholder` attribute is used. The `placeholder` accepts a text value, which is displayed until the user starts typing.<br>
+To give users an idea of what to put in their bio, the `placeholder` attribute is used. The `placeholder` accepts a text value, which is displayed until the user starts typing.<br>
 Give the `textarea` a `placeholder` of `I like coding on the beach...`.
 
 ```html
