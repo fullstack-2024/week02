@@ -22,6 +22,7 @@
 - [CSS](https://internetingishard.netlify.app/html-and-css/hello-css/)
   - `url("image")`
   - `margin-left,auto`
+- [CSS Practice](https://www.w3schools.com/css/exercise.asp)
 - Activities:
   - [Activity 1](./activity1.md)
   - [Activity 2](./activity2.md)
