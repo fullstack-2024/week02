@@ -29,15 +29,26 @@
 
 ### Thursday Morning
 
-- ?
+- Demo (GUI)
+- [WSL] vs [Docker] vs [VirtualBox]
+- [File System](https://github.com/fullstack-2024/Reading/blob/main/Linux/file-system.md)
+- [Activity](./activity3.md)
+- The Linux commands handbook
+  - [Summary](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
+  - [Video: the first hour](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
+- [Optional Activity](./activity4.md)
 
 
 ### Thursday Afternoon
 
-- ?
+- 
 
 
 <!--  -->
 [HTML Preview by George Oliveira]:
 https://marketplace.visualstudio.com/items?itemName=george-alisson.html-preview-vscode
 [Prettier - Code formatter]:https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+[WSL]:https://learn.microsoft.com/en-us/windows/wsl/
+[Docker]:https://www.docker.com/
+[VirtualBox]:https://www.virtualbox.org/
+
