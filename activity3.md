@@ -122,6 +122,11 @@
       ```
       sudo apt install wget
       ```
+    - Use `sudo apt install package_name` to install a binary package.
+      ```
+      sudo apt install tree
+      ```
+      
 
 15. **Changing Password:**
     - Use the `passwd` command to change your password.
